@@ -1,0 +1,14 @@
+/Users/bert/Desktop/EJ 4/bin/Debug/net9.0/EJ 4
+/Users/bert/Desktop/EJ 4/bin/Debug/net9.0/EJ 4.deps.json
+/Users/bert/Desktop/EJ 4/bin/Debug/net9.0/EJ 4.runtimeconfig.json
+/Users/bert/Desktop/EJ 4/bin/Debug/net9.0/EJ 4.dll
+/Users/bert/Desktop/EJ 4/bin/Debug/net9.0/EJ 4.pdb
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.AssemblyInfoInputs.cache
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.AssemblyInfo.cs
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.csproj.CoreCompileInputs.cache
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.dll
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/refint/EJ 4.dll
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.pdb
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/EJ 4.genruntimeconfig.cache
+/Users/bert/Desktop/EJ 4/obj/Debug/net9.0/ref/EJ 4.dll

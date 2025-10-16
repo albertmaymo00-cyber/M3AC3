@@ -1,0 +1,14 @@
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.AssemblyInfoInputs.cache
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.AssemblyInfo.cs
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.csproj.CoreCompileInputs.cache
+/Users/bert/Desktop/EJ 5/bin/Debug/net9.0/EJ 5
+/Users/bert/Desktop/EJ 5/bin/Debug/net9.0/EJ 5.deps.json
+/Users/bert/Desktop/EJ 5/bin/Debug/net9.0/EJ 5.runtimeconfig.json
+/Users/bert/Desktop/EJ 5/bin/Debug/net9.0/EJ 5.dll
+/Users/bert/Desktop/EJ 5/bin/Debug/net9.0/EJ 5.pdb
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.dll
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/refint/EJ 5.dll
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.pdb
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/EJ 5.genruntimeconfig.cache
+/Users/bert/Desktop/EJ 5/obj/Debug/net9.0/ref/EJ 5.dll

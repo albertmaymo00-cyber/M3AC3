@@ -1,0 +1,14 @@
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.AssemblyInfoInputs.cache
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.AssemblyInfo.cs
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.csproj.CoreCompileInputs.cache
+/Users/bert/Desktop/EJ 2/bin/Debug/net9.0/AC2 Progrmacion
+/Users/bert/Desktop/EJ 2/bin/Debug/net9.0/AC2 Progrmacion.deps.json
+/Users/bert/Desktop/EJ 2/bin/Debug/net9.0/AC2 Progrmacion.runtimeconfig.json
+/Users/bert/Desktop/EJ 2/bin/Debug/net9.0/AC2 Progrmacion.dll
+/Users/bert/Desktop/EJ 2/bin/Debug/net9.0/AC2 Progrmacion.pdb
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.dll
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/refint/AC2 Progrmacion.dll
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.pdb
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/AC2 Progrmacion.genruntimeconfig.cache
+/Users/bert/Desktop/EJ 2/obj/Debug/net9.0/ref/AC2 Progrmacion.dll
